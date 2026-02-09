@@ -382,3 +382,6 @@ For questions or issues, please open an issue on the repository or contact the p
 
 **Last Updated:** January 2026
 **Version:** 1.0.0
+
+challenge faced 
+My pc crashed I have uploaded these files using my phone faced challenge in uploading folders because some of the files were supposed to be in a separate folder like component folder and the like, due to phone limitation i had to upload everything as a file 
