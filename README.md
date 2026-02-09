@@ -368,7 +368,20 @@ To contribute to this project:
 2. Create a feature branch
 3. Make your changes
 4. Test thoroughly
-5. Submit a pull request
+   
+⚠️ Challenges Faced
+
+My PC crashed during the submission period, which forced me to complete the upload using a mobile phone.
+
+Due to mobile limitations:
+
+Uploading folders was difficult
+
+Some files had to be uploaded individually
+
+Maintaining folder structure was challenging
+
+Despite these constraints, all required project files were successfully uploaded and documented.ubmit a pull request
 
 ## License
 
@@ -383,5 +396,3 @@ For questions or issues, please open an issue on the repository or contact the p
 **Last Updated:** January 2026
 **Version:** 1.0.0
 
-challenge faced 
-My pc crashed I have uploaded these files using my phone faced challenge in uploading folders because some of the files were supposed to be in a separate folder like component folder and the like, due to phone limitation i had to upload everything as a file 
