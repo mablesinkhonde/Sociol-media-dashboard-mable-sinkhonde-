@@ -1,0 +1,10 @@
+.profile-page {
+  width: 100%;
+  padding: 20px 0;
+}
+
+@media (max-width: 768px) {
+  .profile-page {
+    padding: 10px 0;
+  }
+}
